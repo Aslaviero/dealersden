@@ -1,15 +1,20 @@
-#DealersDen
+# DealersDen
+
+## Description
 DealersDen is an e-commerce platform specializing in video games and related merchandise. Built using React, Vite, and Stripe, it offers an intuitive and secure shopping experience for gaming enthusiasts.
 
-Features
+## Features
+
 Browse a wide selection of video games and gaming accessories
 Add items to your cart and manage quantities
 Secure checkout process powered by Stripe
 Responsive design for a seamless experience on any device
-Getting Started
+Account creation to save items to buy in the future
+
+## Getting Started
 Follow these instructions to set up the project locally for development and testing purposes.
 
-Prerequisites
+### Prerequisites
 Node.js (v14.0 or later)
 npm (v7.0 or later)
 Installation
@@ -30,7 +35,7 @@ Copy code
 npm run dev
 The application should now be running on http://localhost:3000. Open your browser and navigate to the URL to see the DealersDen site.
 
-Deployment
+## Deployment
 To build the project for production, run the following command:
 
 arduino
@@ -38,13 +43,13 @@ Copy code
 npm run build
 This will generate an optimized version of the application in the dist folder. Deploy the contents of this folder to your preferred hosting provider.
 
-Built With
+## Built With:
 React - A JavaScript library for building user interfaces
 Vite - A build tool and development server for fast web development
 Stripe - A payment processing platform for secure transactions
 Contributing
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
